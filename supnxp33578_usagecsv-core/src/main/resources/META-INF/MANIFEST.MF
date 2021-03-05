@@ -1,0 +1,9 @@
+Bundle-ActivationPolicy: lazy
+Bundle-ClassPath: .
+Manifest-Version: 1.0
+Bundle-Vendor: com.usagecsv.renderfeed
+Bundle-Version: 1.0.0
+Bundle-Name: supnxp33578_usagecsv-core
+Bundle-ManifestVersion: 2
+Bundle-SymbolicName: com.usagecsv.renderfeed.supnxp33578-usagecsv-core;singleton=true
+Nuxeo-Component: OSGI-INF/renderlogfeed-operation-contrib.xml
